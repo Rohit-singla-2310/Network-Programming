@@ -1,5 +1,5 @@
 /*
-Made By : Gaurav Baweja
+Made By : Rohit Singla
 Cmd line arguments: Server_IP_Address port_number [range (1025-65500)]
 Ends: when server type "bye" text
 */
